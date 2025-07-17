@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: ModularWarfare
+Implementation-Version: snapshot
+Built-By: Protoxy
+Specification-Vendor: modularwarfare
+Specification-Title: modularwarfare
+Implementation-Timestamp: 2024-05-19T16:13:43+0800
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+Implementation-Vendor: protoxy
+TweakOrder: 0
+MixinConfigs: mixins.modularwarfare.json
+FMLCorePluginContainsFMLMod: true
+ForceLoadAsMod: true
+Specification-Version: 1
+FMLCorePlugin: com.modularwarfare.mixin.MixinCore
+

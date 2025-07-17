@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "com/modularwarfare/mixin/client/accessor/IShaderGroup": {
+      "mainFramebuffer": "field_148035_a:Lnet/minecraft/client/shader/Framebuffer;",
+      "listShaders": "field_148031_d:Ljava/util/List;"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/modularwarfare/mixin/client/accessor/IShaderGroup": {
+        "mainFramebuffer": "field_148035_a:Lnet/minecraft/client/shader/Framebuffer;",
+        "listShaders": "field_148031_d:Ljava/util/List;"
+      }
+    }
+  }
+}
